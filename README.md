@@ -1,6 +1,6 @@
 Сайт (локальный) написанный на Node.JS.
 Позволяет добавлять локальные модели (ollama) и так же добавленных провайдеров через api ключ. 
-Можно менять базовые настройки + поддержка  MCP инструменентов
+Можно менять базовые настройки + поддержка  MCP инструментов
 есть install.bat
 <img width="976" height="1286" alt="image" src="https://github.com/user-attachments/assets/d0714ee3-dbe4-49dc-a170-5fab12ae16e2" />
 <img width="1033" height="846" alt="image" src="https://github.com/user-attachments/assets/7c2302ac-7d8e-471e-91ff-4c4635feff09" />
